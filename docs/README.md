@@ -7,7 +7,14 @@
   
 ## 📖 Phase 1: Einführung und Tutorial
 - [x] Implementierung
-<summary>Kapitel 1: Der Beginn der Unternehmerreise</summary>
+<details>
+  <summary>
+    
+  - [ ] Kapitel 1: Der Beginn der Unternehmerreise
+
+  
+  </summary>
+</details>
 
 
 
@@ -18,7 +25,7 @@
 ## Phase 2: Grundlegende Stadtentwicklung
 - [ ] Implementierung
 - [ ] Testen
-- [ ] Bereitstellung
+
 
 ## Phase 3: Handel und Wachstum
 - [ ] Implementierung
