@@ -7,8 +7,11 @@
   
 ## 📖 Phase 1: Einführung und Tutorial
 - [x] Implementierung
+<summary>Kapitel 1: Der Beginn der Unternehmerreise</summary>
 
-- [ ] 
+
+
+  
 - [ ] Testen
 - [ ] Bereitstellung
 
