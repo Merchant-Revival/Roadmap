@@ -3,24 +3,17 @@
 # Roadmap
 
 <details>
-  <summary>🌠 Die Storyline</summary>
-  
+<summary>🌠 Die Storyline</summary>
+
 ## 📖 Phase 1: Einführung und Tutorial
 - [x] Implementierung
 <details>
   <summary>
     
-  - [ ] Kapitel 1: Der Beginn der Unternehmerreise
-
+- [ ] Kapitel 1: Der Beginn der Unternehmerreise
   
   </summary>
 </details>
-
-
-
-  
-- [ ] Testen
-- [ ] Bereitstellung
 
 ## Phase 2: Grundlegende Stadtentwicklung
 - [ ] Implementierung
@@ -29,9 +22,5 @@
 
 ## Phase 3: Handel und Wachstum
 - [ ] Implementierung
-- [ ] Testen
-- [ ] Bereitstellung
-
 </details>
-
 </body>
