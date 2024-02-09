@@ -6,10 +6,10 @@
 <summary>🌠 Die Storyline</summary>
 
 ## 📖 Phase 1: Einführung und Tutorial
-- [x] Implementierung
+
 <details>
   
-  - [ ] <summary>Kapitel 1: Der Beginn der Unternehmerreise  </summary>
+<summary>Kapitel 1: Der Beginn der Unternehmerreise  </summary>
     
 </details>
 
@@ -21,4 +21,7 @@
 ## Phase 3: Handel und Wachstum
 - [ ] Implementierung
 </details>
+
+
+- [x] Implementierung
 </body>
