@@ -67,4 +67,11 @@
 
 </details>
 
+<details>
+<summary>Spiel auf Andoid</summary>
+
+## 📖 Das Spiel für Andoid zur verfügung stellen.
+
+<details>
+
 </body>
