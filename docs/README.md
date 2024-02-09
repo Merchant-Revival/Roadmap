@@ -1,5 +1,4 @@
-<body style="background-color: #2a2a2a;">
-
+<body style=" background-color: #202025; color: #ffffff;">
 # Roadmap
 
 <details>
