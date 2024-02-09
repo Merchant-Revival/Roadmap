@@ -66,11 +66,14 @@
 > Die Phase der Forschung und Innovation eröffnet dem Spieler die Möglichkeit, neue Technologien und Produktionsmethoden zu entwickeln. Der Spieler kann in seinem eigenen Labor experimentieren und Fortschritte erzielen, um seine Produkte zu verbessern und neue Märkte zu erobern.
 
 </details>
-
+</details>
 <details>
-<summary>Spiel auf Andoid</summary>
+<summary>📍 Spiel auf Andoid</summary>
 
-## 📍 Das Spiel für Andoid zur verfügung stellen.
+  - [ ] Planungstermine abgearbeitet.
+  - [ ] Erste Version Kompilieren.
+  - [ ] Das Spiel für Andoid zur verfügung stellen.
 
 </details>
+
 </body>
