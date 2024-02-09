@@ -70,8 +70,7 @@
 <details>
 <summary>Spiel auf Andoid</summary>
 
-## 📖 Das Spiel für Andoid zur verfügung stellen.
+## 📍 Das Spiel für Andoid zur verfügung stellen.
 
-<details>
-
+</details>
 </body>
