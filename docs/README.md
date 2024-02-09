@@ -4,7 +4,7 @@
 
 <details>
 <summary>🌠 Die Storyline</summary>
-
+```
 ## 📖 Phase 1: Einführung und Tutorial
 
 <details>
